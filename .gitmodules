@@ -1,0 +1,3 @@
+[submodule "model_train/charsiu"]
+	path = model_train/charsiu
+	url = https://github.com/lahrry/charsiu.git
